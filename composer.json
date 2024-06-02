@@ -1,0 +1,15 @@
+{
+    "name": "hexlet/code",
+    "description": "first project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Madi",
+            "email": "madi.zhetpisbay@gmail.com"
+        }
+    ],
+    "require": {}
+}
+"bin": [
+  "bin/brain-games"
+]
